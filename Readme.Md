@@ -18,10 +18,11 @@ we built those components and a componentis basically just a custom HTML element
 > a) Expense.js b)ExpernseItem.js 
 
 ## We build A Component Tree
+```
 <App/> ------><Tasks/>
    |         <Task/> <Task/><Task/>
 <Header/>       
-
+```
 -app.js rendered into single HTMl page
 
 
